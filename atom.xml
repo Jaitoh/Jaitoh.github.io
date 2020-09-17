@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-17T11:19:39.714Z</updated>
+  <updated>2020-09-10T09:24:34.069Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[SUMMARY] &quot;2020 Autumn lecture lists&quot;</title>
+    <link href="http://yoursite.com/2020/09/10/2020-Autumn-lecture-lists/"/>
+    <id>http://yoursite.com/2020/09/10/2020-Autumn-lecture-lists/</id>
+    <published>2020-09-10T09:18:49.000Z</published>
+    <updated>2020-09-10T09:24:34.069Z</updated>
+    
+    <content type="html"><![CDATA[<p><img data-src="/image/title.png" alt=""></p><center>摘要</center><a id="more"></a><h1 id="VLSI"><a href="#VLSI" class="headerlink" title="VLSI"></a>VLSI</h1><p>Piazza link:<br><a href="http://piazza.com/ethz.ch/fall2020/227011600lvlsii?token=GEOjkXbd5Id">http://piazza.com/ethz.ch/fall2020/227011600lvlsii?token=GEOjkXbd5Id</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img data-src=&quot;/image/title.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;center&gt;摘要&lt;/center&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>[] &quot;Lecture Coursera Aid Application&quot;</title>
@@ -503,32 +523,6 @@ img{
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>[Coding] Anaconda&quot;&#39;</title>
-    <link href="http://yoursite.com/2020/03/30/Coding-2003-Anaconda/"/>
-    <id>http://yoursite.com/2020/03/30/Coding-2003-Anaconda/</id>
-    <published>2020-03-30T19:30:58.000Z</published>
-    <updated>2020-08-17T11:19:39.712Z</updated>
-    
-    <content type="html"><![CDATA[<center><p>setting up anaconda tensorflow and keras<br><a href="https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf">Conda Cheat sheet</a></p></center><a id="more"></a><h1 id="Anaconda"><a href="#Anaconda" class="headerlink" title="Anaconda"></a>Anaconda</h1><p><a href="https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf">Cheat sheet</a></p><h2 id="setting-up-Anaconda-and-install-NN-packages"><a href="#setting-up-Anaconda-and-install-NN-packages" class="headerlink" title="setting up Anaconda and install NN packages:"></a>setting up Anaconda and install NN packages:</h2><p>ref: <a href="https://keras-cn-docs.readthedocs.io/zh_CN/latest/getting_started/keras_windows/">https://keras-cn-docs.readthedocs.io/zh_CN/latest/getting_started/keras_windows/</a></p><ul><li><p>create new environment<br><code>conda create -n TF2.1 python=3.7</code><br><code>conda activate TF2.1</code></p></li><li><p>GCC/G++ compile environment:<br><code>conda install -c anaconda mingw</code></p></li><li><p>TensorFlow2: <a href="https://www.tensorflow.org/install/">https://www.tensorflow.org/install/</a><br>  <em>require the latest pip</em><br>  <code>pip install --upgrade pip</code><br>  <em>current stable release for CPUnGPU</em><br>  <code>conda install tensorflow</code><br>  <code>conda install tensorflow-gpu</code><br>  <em>The preview build(unstable)</em><br>  <code>pip install tf-nightly</code></p></li><li><p>install jupyter notebook / lab<br><code>pip3 install jupyter</code><br><code>conda install -c conda-forge</code><br><code>conda install -c conda-forge jupyterlab</code>    </p></li><li><p>Keras:<br><code>conda install -c anaconda keras</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">configure: %USERPROFILE%/.keras/keras.json</span><br><span class="line">&#123;</span><br><span class="line">  <span class="string">&quot;image_data_format&quot;</span>: <span class="string">&quot;channels_last&quot;</span>,</span><br><span class="line">  <span class="string">&quot;epsilon&quot;</span>: <span class="number">1e-07</span>,</span><br><span class="line">  <span class="string">&quot;floatx&quot;</span>: <span class="string">&quot;float32&quot;</span>,</span><br><span class="line">  <span class="string">&quot;backend&quot;</span>: <span class="string">&quot;tensorflow&quot;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p>addpath<br>C:\Users\HeyVi\Anaconda3;<br>C:\Users\HeyVi\Anaconda3\MinGW\x86_64-w64-mingw32\lib;<br>C:\Users\HeyVi\Anaconda3\MinGW\bin;<br>C:\Users\HeyVi\Anaconda3\Scripts;<br>C:\Users\HeyVi\Anaconda3\Lib\site-packages\tensorflow; [PYTHONPATH]<br>C:\Users\HeyVi\Anaconda3\Lib\site-packages\tensorflow-gpu; [PYTHONPATH2]</p></li><li><p>RAM - Board:<br>KEIL<br>STMicroelectronics X-CUBE-AI<br>teraterm<br>ST LINK<br>STM32CubeMX<br>STMStudio_setup</p></li><li><p>Keras model implementation:<br>Sequetial model:</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> keras.model <span class="keyword">import</span> Sequential</span><br><span class="line">model = Sequential()</span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> keras.layers <span class="keyword">import</span> Dense</span><br><span class="line">model.add(Dense(units=<span class="number">64</span>, activation = <span class="string">&#x27;relu&#x27;</span>, input_dim = <span class="number">100</span>))</span><br><span class="line">model.add(Dense(units=<span class="number">10</span>, activation = <span class="string">&#x27;softmax&#x27;</span>))</span><br><span class="line"></span><br><span class="line">model.compile(loss=<span class="string">&#x27;categorical_crossentropy&#x27;</span>,</span><br><span class="line">              optimizer=<span class="string">&#x27;sgd&#x27;</span>,</span><br><span class="line">              metrics=[<span class="string">&#x27;accuracy&#x27;</span>])</span><br><span class="line">      </span><br><span class="line">model.fit(x_train, y_train, epochs=<span class="number">5</span>, batch_size=<span class="number">32</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment">#model.train_on_batch(x_batch,y_batch)</span></span><br><span class="line">      </span><br><span class="line">loss_n_metrices = model.evaluate(x_test, y_test, batch_size = <span class="number">128</span>)</span><br><span class="line"></span><br><span class="line">classes = model.predict(x_test,batch_size=<span class="number">128</span>)</span><br></pre></td></tr></table></figure><h2 id="Anaconda-使用"><a href="#Anaconda-使用" class="headerlink" title="Anaconda 使用"></a>Anaconda 使用</h2></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      &lt;center&gt;
-
-&lt;p&gt;setting up anaconda tensorflow and keras&lt;br&gt;&lt;a href=&quot;https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf&quot;&gt;Conda Cheat sheet&lt;/a&gt;&lt;/p&gt;
-&lt;/center&gt;
-    
-    </summary>
-    
-    
-      <category term="coding" scheme="http://yoursite.com/categories/coding/"/>
-    
-    
-      <category term="anaconda" scheme="http://yoursite.com/tags/anaconda/"/>
     
   </entry>
   
