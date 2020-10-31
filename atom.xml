@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-10T09:24:34.069Z</updated>
+  <updated>2020-10-31T21:19:06.682Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Coding-2010-Git-simple-usage</title>
+    <link href="http://yoursite.com/2020/10/31/Coding-2010-Git-simple-usage-md/"/>
+    <id>http://yoursite.com/2020/10/31/Coding-2010-Git-simple-usage-md/</id>
+    <published>2020-10-31T21:17:36.000Z</published>
+    <updated>2020-10-31T21:19:06.682Z</updated>
+    
+    <content type="html"><![CDATA[<center>本文涉及到的命令`git clone <repository网页地址>``git pull``git add .``git commit -m "替换成你的内容，比如add readme.md"``git push`</center><a id="more"></a><h1 id="简易的git命令行总结"><a href="#简易的git命令行总结" class="headerlink" title="简易的git命令行总结"></a>简易的git命令行总结</h1><p>（不需要安装github desktop，通用于一般的git项目）</p><h2 id="本文涉及到的命令"><a href="#本文涉及到的命令" class="headerlink" title="本文涉及到的命令"></a>本文涉及到的命令</h2><p><code>git clone &lt;repository网页地址&gt;</code><br><code>git pull</code><br><code>git add .</code><br><code>git commit -m &quot;替换成你的内容，比如add readme.md&quot;</code><br><code>git push</code></p><h2 id="命令行和操作解释"><a href="#命令行和操作解释" class="headerlink" title="命令行和操作解释"></a>命令行和操作解释</h2><ul><li><p>从远端获取project到本地<br><code>git clone &lt;repository网页地址&gt;</code></p></li><li><p>project有其他人进行更新后 从远端拉到本地，<br><code>cd &lt;project 所在目录&gt;</code><br><code>git pull</code></p></li><li><p>自己对project做相关更改后</p><ol><li>project目录下 添加自己的修改： <code>git add .</code></li><li>注释自己的修改：<code>git commit -m &quot;替换成你的内容，比如add readme.md&quot;</code></li><li>提交自己的修改：<code>git push</code></li></ol></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;本文涉及到的命令
+`git clone &lt;repository网页地址&gt;`
+`git pull`
+`git add .`
+`git commit -m &quot;替换成你的内容，比如add readme.md&quot;`
+`git push`&lt;/center&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[] &quot;RSS List Collection&quot;</title>
+    <link href="http://yoursite.com/2020/10/25/RSS-List-Collection/"/>
+    <id>http://yoursite.com/2020/10/25/RSS-List-Collection/</id>
+    <published>2020-10-25T20:08:37.000Z</published>
+    <updated>2020-10-25T21:14:37.028Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><h2 id="RSS-汇总网址"><a href="#RSS-汇总网址" class="headerlink" title="RSS 汇总网址"></a>RSS 汇总网址</h2><p><a href="https://docs.rsshub.app/blog.html#latex-kai-yuan-xiao-wu">https://docs.rsshub.app/blog.html#latex-kai-yuan-xiao-wu</a></p><h2 id="general-info"><a href="#general-info" class="headerlink" title="general info"></a>general info</h2><ul><li>纽约时报： <a href="https://rsshub.app/nytimes/en">https://rsshub.app/nytimes/en</a></li><li>工信部： <a href="https://rsshub.app/gov/miit/zcjd">https://rsshub.app/gov/miit/zcjd</a></li><li>果壳专栏： <a href="https://rsshub.app/guokr/calendar">https://rsshub.app/guokr/calendar</a></li><li>apple：<a href="https://rsshub.app/apple/exchange_repair/zh-cn">https://rsshub.app/apple/exchange_repair/zh-cn</a></li><li><a href="https://rsshub.app/hackerone/hacktivity">https://rsshub.app/hackerone/hacktivity</a></li><li><a href="https://rsshub.app/nsfc/news/kpkx">https://rsshub.app/nsfc/news/kpkx</a></li><li><a href="https://rsshub.app/nsfc/news/jjyw">https://rsshub.app/nsfc/news/jjyw</a></li><li><a href="https://rsshub.app/csc/notice/lxtz">https://rsshub.app/csc/notice/lxtz</a></li><li>UI中国： <a href="https://rsshub.app/ui-cn/article">https://rsshub.app/ui-cn/article</a></li></ul><h2 id="科技资讯"><a href="#科技资讯" class="headerlink" title="科技资讯"></a>科技资讯</h2><ul><li>solidot： <a href="https://rsshub.app/solidot/science">https://rsshub.app/solidot/science</a></li><li>solidot： <a href="https://rsshub.app/solidot/technology">https://rsshub.app/solidot/technology</a></li><li>solidot： <a href="https://rsshub.app/solidot/apple">https://rsshub.app/solidot/apple</a></li><li>solidot： <a href="https://rsshub.app/solidot/cloud">https://rsshub.app/solidot/cloud</a></li><li>it之家 <a href="https://www.ithome.com/rss/">https://www.ithome.com/rss/</a></li><li>LaTeX 开源小屋：  <a href="https://rsshub.app/latexstudio/home">https://rsshub.app/latexstudio/home</a></li><li>阿里云系统组技术博客： <a href="https://rsshub.app/aliyun-kernel/index">https://rsshub.app/aliyun-kernel/index</a></li><li>阿里云数据库内核月报：<a href="https://rsshub.app/aliyun/database_month">https://rsshub.app/aliyun/database_month</a></li><li>技术头条：<a href="https://rsshub.app/blogread/newest">https://rsshub.app/blogread/newest</a></li><li>腾讯大数据： <a href="https://rsshub.app/tencent/bigdata">https://rsshub.app/tencent/bigdata</a></li><li>MIT科技评论：<a href="https://rsshub.app/mittrchina/article">https://rsshub.app/mittrchina/article</a></li><li>果壳科技人： <a href="https://rsshub.app/guokr/scientific">https://rsshub.app/guokr/scientific</a></li><li>LeetCode：<a href="https://rsshub.app/leetcode/articles">https://rsshub.app/leetcode/articles</a></li></ul><h2 id="杂志"><a href="#杂志" class="headerlink" title="杂志"></a>杂志</h2><ul><li>nature： <a href="https://rsshub.app/nature/research/nature">https://rsshub.app/nature/research/nature</a></li><li>nature biotech: <a href="https://rsshub.app/nature/research/nbt">https://rsshub.app/nature/research/nbt</a></li><li>nature neuro: <a href="https://rsshub.app/nature/research/neuro">https://rsshub.app/nature/research/neuro</a></li><li>nature genetics: <a href="https://rsshub.app/nature/research/ng">https://rsshub.app/nature/research/ng</a></li><li>nature machine intelligence: <a href="https://rsshub.app/nature/research/natmachintell">https://rsshub.app/nature/research/natmachintell</a></li><li>cell: <a href="https://rsshub.app/cell/cell/current">https://rsshub.app/cell/cell/current</a></li><li>cell: <a href="https://rsshub.app/cell/cell/inpress">https://rsshub.app/cell/cell/inpress</a></li><li>pubmed: <a href="https://rsshub.app/pubmed/trending">https://rsshub.app/pubmed/trending</a></li><li>IEEE Xplore(个人作品):</li><li>elife: <a href="https://rsshub.app/elife/cell-biology">https://rsshub.app/elife/cell-biology</a></li><li>elife: <a href="https://rsshub.app/elife/neuroscience">https://rsshub.app/elife/neuroscience</a></li><li>elife: <a href="https://rsshub.app/elife/computational-and-systems-biology">https://rsshub.app/elife/computational-and-systems-biology</a></li><li>pnas: <a href="https://rsshub.app/pnas/">https://rsshub.app/pnas/</a></li><li>NASA：<a href="https://rsshub.app/nasa/apod">https://rsshub.app/nasa/apod</a></li><li>国家地理：<a href="https://rsshub.app/natgeo/dailyphoto">https://rsshub.app/natgeo/dailyphoto</a></li></ul><h2 id="AI"><a href="#AI" class="headerlink" title="AI"></a>AI</h2><ul><li>AI研习社：<a href="https://rsshub.app/aiyanxishe/all">https://rsshub.app/aiyanxishe/all</a></li><li>deeplearning.ai: <a href="https://rsshub.app/deeplearningai/thebatch">https://rsshub.app/deeplearningai/thebatch</a></li><li>dockone: <a href="https://rsshub.app/dockone/weekly">https://rsshub.app/dockone/weekly</a></li><li>kaggle: <a href="https://rsshub.app/kaggle/discussion/all/hot">https://rsshub.app/kaggle/discussion/all/hot</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;h2 id=&quot;RSS-汇总网址&quot;&gt;&lt;a href=&quot;#RSS-汇总网址&quot; class=&quot;headerlink&quot; title=&quot;RSS 汇总网址&quot;&gt;&lt;/a&gt;RSS 汇总网址&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://docs.rsshu
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>[SUMMARY] &quot;2020 Autumn lecture lists&quot;</title>
@@ -467,62 +515,6 @@ insula and habenula - aversive prediction error
       <category term="decision making" scheme="http://yoursite.com/tags/decision-making/"/>
     
       <category term="prefrontal cortex" scheme="http://yoursite.com/tags/prefrontal-cortex/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[Reading] Cortical substrates for exploratory decisions in humans</title>
-    <link href="http://yoursite.com/2020/04/02/reading-2004-cortical-substrates-for-exploratory-decisions-in-humans/"/>
-    <id>http://yoursite.com/2020/04/02/reading-2004-cortical-substrates-for-exploratory-decisions-in-humans/</id>
-    <published>2020-04-02T15:07:48.000Z</published>
-    <updated>2020-08-17T11:19:39.718Z</updated>
-    
-    <content type="html"><![CDATA[<style>img{    width: 50%;}</style><center><p><img data-src="/image/reading/Reading-2004-exploratory-decisions-cortical-substrates-experiment00.jpg" alt=""></p><p>exploratory - risk<br>exploitative - small risk</p><p>mOFC - reward values<br>vmPFC - probability of choice action<br>rFP - choice behavior control<br>lrPS - interface between frontal area &amp; motor</p></center><a id="more"></a><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>we employ functional magnetic resonance imaging to show that the <strong>frontopolar cortex and intraparietal sulcus</strong> are preferentially active during <strong>exploratory decisions</strong>. </p><p>In contrast, regions of <strong>striatum and ventromedial prefrontal cortex</strong> exhibit activity characteristic of an involvement in <strong>value-based exploitative decision making</strong>.</p><p>mOFC - reward values calculation<br>mOFC &amp; lOFC (ventro-medial prefrontal cortex) - probability </p><p>right anterior frontopolar cortex - decisions classified as exploratory.</p><p>prefrontal cortex - behavioral control<br>anterior intraparietal sulcus - decision making </p><p>LIP - reward expected for a saccade - (interface between frontal area &amp; motor output)</p><hr><p>Decision making in an uncertain environment poses a conflict between the opposing demands of gathering and exploiting information.<br>In a classic illustration of this ‘exploration–exploitation’ dilemma1 , a gambler choosing between multiple slot machines balances the desire to select what seems, on the basis of accumulated experience, the richest option, against the desire to choose a less familiar option that might turn out more advantageous (and thereby provide information for improving future decisions).<br>Far from representing idle curiosity, such exploration is often critical for organisms to discover how best to harvest resources such as food and water. </p><p>In appetitive choice, substantial experimental evidence, underpinned by computational reinforcement learning (RL) theory, indicates that a dopaminergic3,4 , striatal5–9 and medial prefrontal network mediates learning to exploit.</p><p>In contrast, although exploration has been well studied from both theoretical1 and ethological10 perspectives, its neural substrates are much less clear.<br>Here we show, in a gambling task, that human subjects’ choices can be characterized by a computationally well-regarded strategy for addressing the explore/exploit dilemma. </p><p>Furthermore, using this characterization to classify decisions as exploratory or exploitative, we employ functional magnetic resonance imaging to show that the <strong>frontopolar cortex and intraparietal sulcus</strong> are preferentially active during <strong>exploratory decisions</strong>. </p><p>In contrast, regions of <strong>striatum and ventromedial prefrontal cortex</strong> exhibit activity characteristic of an involvement in <strong>value-based exploitative decision making</strong>. </p><p>The results suggest a model of action selection under uncertainty that involves switching between exploratory and exploitative behavioural modes, and provide a computationally precise characterization of the contribution of key decision-related brain systems to each of these functions.</p><hr><h2 id="Experiment"><a href="#Experiment" class="headerlink" title="Experiment"></a>Experiment</h2><p><img data-src="/image/reading/Reading-2004-exploratory-decisions-cortical-substrates-experiment.jpg" alt=""></p><p><img data-src="/image/reading/Reading-2004-exploratory-decisions-cortical-substrates-experiment01.jpg" alt=""></p><p><img data-src="/image/reading/Reading-2004-exploratory-decisions-cortical-substrates-experiment02.jpg" alt=""></p><p><img data-src="/image/reading/Reading-2004-exploratory-decisions-cortical-substrates-experiment03.jpg" alt=""></p><hr><h2 id="Question"><a href="#Question" class="headerlink" title="Question"></a>Question</h2><p>Could there be an introduction of the softmax model used in this article and<br>how the parameters used in the model are determined according to human response?<br>How are BOLD signals correlated with model generated signals?</p><hr><h2 id="Authors-and-institutes"><a href="#Authors-and-institutes" class="headerlink" title="Authors and institutes"></a>Authors and institutes</h2><p>Nathaniel D. Daw, John P. O’Doherty, Peter Dayan1, Ben Seymour and Raymond J. Dolan<br>1Gatsby Computational Neuroscience Unit, University College London (UCL), Alexandra House, 17 Queen Square, London WC1N 3AR, UK.<br>2Wellcome Department of Imaging Neuroscience, UCL, 12 Queen Square, London WC1N 3BG, UK. †Present address: Division of Humanities and Social Sciences, California Institute of Technology, 1200 East California Boulevard, Pasadena, California 91125, USA.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;style&gt;
-img{
-    width: 50%;
-}
-&lt;/style&gt;
-
-&lt;center&gt;
-
-&lt;p&gt;&lt;img data-src=&quot;/image/reading/Reading-2004-exploratory-decisions-cortical-substrates-experiment00.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;exploratory - risk&lt;br&gt;exploitative - small risk&lt;/p&gt;
-&lt;p&gt;mOFC - reward values&lt;br&gt;vmPFC - probability of choice action&lt;br&gt;rFP - choice behavior control&lt;br&gt;lrPS - interface between frontal area &amp;amp; motor&lt;/p&gt;
-&lt;/center&gt;
-    
-    </summary>
-    
-    
-      <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
-    
-    
-      <category term="decision" scheme="http://yoursite.com/tags/decision/"/>
-    
-      <category term="cortical substrates" scheme="http://yoursite.com/tags/cortical-substrates/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>notes Mar.31</title>
-    <link href="http://yoursite.com/2020/03/31/notes/"/>
-    <id>http://yoursite.com/2020/03/31/notes/</id>
-    <published>2020-03-31T12:23:29.000Z</published>
-    <updated>2020-08-17T11:19:39.718Z</updated>
-    
-    <content type="html"><![CDATA[<p>abmelden/德意志银行咨询</p><center>摘要</center><a id="more"></a><p>给德意志银行发的咨询账户信息的邮件：<br>Recently I have moved to Switzerland for further study, and I would like to keep my Deutsche Bank account which is very convenient. Is there additional anything that I should do?</p><p>In addition, how should I change my address to a place outside of Germany but still in Europe?<br>My current address is:<br>BK012 Meierwiesenstr.62<br>8064 Zurich</p><p>Best regards,<br>Wenjie He</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;abmelden/德意志银行咨询&lt;/p&gt;
-&lt;center&gt;摘要&lt;/center&gt;
-    
-    </summary>
-    
-    
     
   </entry>
   

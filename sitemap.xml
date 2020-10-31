@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/10/31/Coding-2010-Git-simple-usage-md/</loc>
+    
+    <lastmod>2020-10-31T21:19:06.682Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/10/25/RSS-List-Collection/</loc>
+    
+    <lastmod>2020-10-25T21:14:37.028Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2020/03/22/2020SUMMARY-System-Settings/</loc>
     
     <lastmod>2020-10-25T12:46:12.651Z</lastmod>
@@ -16,14 +30,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://yoursite.com/schedule/index.html</loc>
     
     <lastmod>2020-08-17T11:19:40.151Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/schedule/index.html</loc>
+    <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2020-08-17T11:19:40.151Z</lastmod>
     
