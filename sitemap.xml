@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/03/22/2020SUMMARY-System-Settings/</loc>
+    
+    <lastmod>2020-11-08T11:54:22.790Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/03/26/Coding-2003-Python/</loc>
+    
+    <lastmod>2020-11-04T21:17:13.582Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/03/24/Coding-2003-Markdown-Cheatsheet/</loc>
+    
+    <lastmod>2020-11-04T21:17:00.197Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/03/23/Coding-2003-Jupyter-Notebook/</loc>
+    
+    <lastmod>2020-11-04T21:16:42.291Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/04/15/Coding-2004-Git/</loc>
+    
+    <lastmod>2020-11-04T21:16:22.558Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2020/10/31/Coding-2010-Git-simple-usage-md/</loc>
     
     <lastmod>2020-10-31T21:36:38.020Z</lastmod>
@@ -16,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/03/22/2020SUMMARY-System-Settings/</loc>
-    
-    <lastmod>2020-10-25T12:46:12.651Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2020/09/10/2020-Autumn-lecture-lists/</loc>
     
     <lastmod>2020-09-10T09:24:34.069Z</lastmod>
@@ -30,14 +58,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://yoursite.com/schedule/index.html</loc>
     
     <lastmod>2020-08-17T11:19:40.151Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/schedule/index.html</loc>
+    <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2020-08-17T11:19:40.151Z</lastmod>
     
@@ -198,20 +226,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/15/Coding-2004-Git/</loc>
-    
-    <lastmod>2020-08-17T11:19:39.713Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/03/26/Coding-2003-Python/</loc>
-    
-    <lastmod>2020-08-17T11:19:39.713Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2020/03/25/Coding-2003-python-for-in%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</loc>
     
     <lastmod>2020-08-17T11:19:39.713Z</lastmod>
@@ -254,20 +268,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/03/24/Coding-2003-Markdown-Cheatsheet/</loc>
-    
-    <lastmod>2020-08-17T11:19:39.712Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/03/23/Coding-2003-Jupyter-Notebook/</loc>
-    
-    <lastmod>2020-08-17T11:19:39.712Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2020/05/03/2020SUMMARY-Open-Source-Datasets/</loc>
     
     <lastmod>2020-08-17T11:19:39.711Z</lastmod>
@@ -275,14 +275,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/Readings/index.html</loc>
+    <loc>http://yoursite.com/Music/index.html</loc>
     
     <lastmod>2020-08-17T11:19:39.711Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/Music/index.html</loc>
+    <loc>http://yoursite.com/Readings/index.html</loc>
     
     <lastmod>2020-08-17T11:19:39.711Z</lastmod>
     
