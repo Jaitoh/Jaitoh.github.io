@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-12-17T14:05:47.118Z</updated>
+  <updated>2020-12-17T14:11:10.545Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/12/17/2020HS-FDS-Summary/"/>
     <id>http://yoursite.com/2020/12/17/2020HS-FDS-Summary/</id>
     <published>2020-12-17T13:48:04.000Z</published>
-    <updated>2020-12-17T14:05:47.118Z</updated>
+    <updated>2020-12-17T14:11:10.545Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><center><embed src="../pdfs/summary_Foundations_of_Data_Science_2020.pdf" width="850" height="600"></center><!-- <object data="/blog/images/xxx.pdf" type="application/pdf" width="100%"> </object> -->]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><center><embed src="../../../../pdfs/summary_Foundations_of_Data_Science_2020.pdf" width="850" height="600"></center><!-- <object data="/blog/images/xxx.pdf" type="application/pdf" width="100%"> </object> -->]]></content>
     
     <summary type="html">
     
@@ -31,9 +31,9 @@
       
         &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 
-&lt;center&gt;&lt;embed src=&quot;../pdfs/summary_Foundations_of_Data_Science_2020.pdf&quot; width=&quot;850&quot; height=&quot;600&quot;&gt;&lt;/center&gt;
+&lt;center&gt;&lt;embed src=&quot;../../../../pdfs/summary_Foundations_of_Data_Science_2020.pdf&quot; width=&quot;850&quot; height=&quot;600&quot;&gt;&lt;/center&gt;
 
-&lt;!-- &lt;objec
+&lt;!
       
     
     </summary>
