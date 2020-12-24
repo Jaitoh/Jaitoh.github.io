@@ -128,13 +128,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/03/31/notes/</loc>
-    
-    <lastmod>2020-08-17T11:19:39.718Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2020/04/02/reading-2004-cortical-substrates-for-exploratory-decisions-in-humans/</loc>
     
     <lastmod>2020-08-17T11:19:39.718Z</lastmod>
@@ -142,21 +135,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/28/Reading-2004-prediction-error-in-reinfoecement-learning-and-learning-the-value-of-information-in-an-uncertain-world/</loc>
+    <loc>http://yoursite.com/2020/03/31/notes/</loc>
     
-    <lastmod>2020-08-17T11:19:39.717Z</lastmod>
+    <lastmod>2020-08-17T11:19:39.718Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2020/05/18/Reading-2005-Decoding-a-Perceptual-Decision-Process-across-Cortex/</loc>
-    
-    <lastmod>2020-08-17T11:19:39.717Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/05/04/Reading-2005-Giving-is-self-rewarding-for-monkeys/</loc>
     
     <lastmod>2020-08-17T11:19:39.717Z</lastmod>
     
@@ -170,9 +156,16 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/03/24/Reading-2003-Reading-Orbitofrontal-Cortex-Encodes-Willingness-to-Pay-in-Everyday-Economic-Transactions/</loc>
+    <loc>http://yoursite.com/2020/05/04/Reading-2005-Giving-is-self-rewarding-for-monkeys/</loc>
     
-    <lastmod>2020-08-17T11:19:39.716Z</lastmod>
+    <lastmod>2020-08-17T11:19:39.717Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/04/28/Reading-2004-prediction-error-in-reinfoecement-learning-and-learning-the-value-of-information-in-an-uncertain-world/</loc>
+    
+    <lastmod>2020-08-17T11:19:39.717Z</lastmod>
     
   </url>
   
@@ -192,6 +185,13 @@
   
   <url>
     <loc>http://yoursite.com/2020/03/24/Reading-2003-Reading-From-Perception-to-Pleasure-Music-and-its-Neural-Substrates/</loc>
+    
+    <lastmod>2020-08-17T11:19:39.716Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/03/24/Reading-2003-Reading-Orbitofrontal-Cortex-Encodes-Willingness-to-Pay-in-Everyday-Economic-Transactions/</loc>
     
     <lastmod>2020-08-17T11:19:39.716Z</lastmod>
     
@@ -219,7 +219,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/05/Lecture-2004-Coursera-Machine-Learning/</loc>
+    <loc>http://yoursite.com/2020/06/10/Lecture-Coursera-Aid-Application/</loc>
     
     <lastmod>2020-08-17T11:19:39.714Z</lastmod>
     
@@ -233,13 +233,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/06/10/Lecture-Coursera-Aid-Application/</loc>
-    
-    <lastmod>2020-08-17T11:19:39.714Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2020/04/05/Lecture-2004-Coursera-Visual-Perception-and-the-Brain/</loc>
     
     <lastmod>2020-08-17T11:19:39.714Z</lastmod>
@@ -247,14 +240,21 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/03/25/Coding-2003-python-for-in%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</loc>
+    <loc>http://yoursite.com/2020/04/05/Lecture-2004-Coursera-Machine-Learning/</loc>
+    
+    <lastmod>2020-08-17T11:19:39.714Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/04/15/Coding-2004-Ubuntu/</loc>
     
     <lastmod>2020-08-17T11:19:39.713Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/15/Coding-2004-Ubuntu/</loc>
+    <loc>http://yoursite.com/2020/03/25/Coding-2003-python-for-in%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</loc>
     
     <lastmod>2020-08-17T11:19:39.713Z</lastmod>
     
@@ -289,14 +289,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/Readings/index.html</loc>
+    <loc>http://yoursite.com/Music/index.html</loc>
     
     <lastmod>2020-08-17T11:19:39.711Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/Music/index.html</loc>
+    <loc>http://yoursite.com/Readings/index.html</loc>
     
     <lastmod>2020-08-17T11:19:39.711Z</lastmod>
     
