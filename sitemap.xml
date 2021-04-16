@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/03/22/2020SUMMARY-System-Settings/</loc>
+    
+    <lastmod>2021-04-16T10:27:21.838Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2021/03/08/2021CSSS-project-md/</loc>
     
-    <lastmod>2021-03-08T16:29:45.460Z</lastmod>
+    <lastmod>2021-03-08T16:31:39.716Z</lastmod>
     
   </url>
   
@@ -40,13 +47,6 @@
     <loc>http://yoursite.com/2020/12/17/2020HS-Programming-python-notes/</loc>
     
     <lastmod>2020-12-17T13:57:20.134Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/03/22/2020SUMMARY-System-Settings/</loc>
-    
-    <lastmod>2020-11-18T23:31:32.335Z</lastmod>
     
   </url>
   
@@ -107,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/coding/index.html</loc>
+    <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2020-08-17T11:19:39.719Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://yoursite.com/coding/index.html</loc>
     
     <lastmod>2020-08-17T11:19:39.719Z</lastmod>
     
